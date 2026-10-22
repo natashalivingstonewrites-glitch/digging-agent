@@ -1,91 +1,46 @@
 # Source list
 
-> This file is your editorial position on whose work to trust, whose to read sceptically, and whose to treat as noise. The agent uses it to weight what it surfaces and to flag confidence levels.
->
-> The richer this file, the better the agent's triage. Add to it as you build your beat.
+> This file is your editorial position on whose work to trust, whose to read sceptically, and whose to treat as noise.
 
 ---
 
-## Tier 1 — Trusted
+## Job 1 — Yoga & wellness trend-watching (primary, every run)
 
-Amelia Tait — Instagram: @ameliargh (arguably her main work-sharing platform now) • X: @ameliargh
-Donna Ferguson — LinkedIn: Donna Ferguson • X: @donnaferguson5
-Amelia Abraham — Instagram: @ameliaabraham • X: @ameliaabraham
-Hattie Crisell — Instagram: @hattiecrisell (where she most regularly promotes profiles and podcast episodes) • X: @hattiecrisell
-Emma Beddington — X: @edbedington (still her primary professional channel)
-Megan Carnegie — Instagram: @megancarnegie_ • X: @megancarnegie_
-Daisy Jones — Instagram: @daisyjsjones (her most active work-sharing account) • X: @daisyjsjones
-Sirin Kale — X: @sirin_kale (by far her main outlet for promoting work and discussing reporting)
-Rachael Healy — Instagram: @rachaelhealy_ • X: @rachaelhealy_
-Bryony Gordon — Instagram: @bryonygordon (very active for articles, books and podcast appearances) • X: @bryony_gordon
-Hadley Freeman — Instagram: @hadleyfreeman • X: @hadleyfreeman
-Caitlin Moran — Instagram: @caitlinmoran • X: @caitlinmoran
+Tier 1 — trusted, search/fetch directly each run:
+- Yoga Journal — yogajournal.com
+- Yoga Magazine (UK) — yogamagazine.com
+- British Wheel of Yoga — bwy.org.uk
+- WellBeing (AU) — wellbeing.com.au (occasional, cross-market comparison)
 
-Yomi Adegoke — Instagram @yomi.adegoke
-Pandora Sykes — Instagram @pandorasykes
-Poorna Bell — Instagram @poornabell
-Rhiannon Lucy Cosslett — Instagram @rhiannonlc
-Megan Wallace — LinkedIn tends to be her main professional channel.
-Chanté Joseph — Instagram @chantejoseph
+Tier 2 — normal attribution:
+- Well+Good, mindbodygreen, Get The Gloss, Women's Health UK
+- Inside Yoga Magazine — thesunlightexperience.com/insideyoga (US-based, twice-yearly trade publication on labour/money/ethics/careers in the yoga industry; possibly newly launched, so verify output before citing as established)
 
+## Job 4 — Light and bright
 
----
+Search-based, with a few outlets to trial (none yet verified in a run, so treat as Tier 2 until they prove themselves):
+- Positive News (positive.news) — UK constructive-journalism outlet
+- Good News Network (goodnewsnetwork.org) — US aggregator; use only as a pointer to original reporting, and always trace back to the primary source
+- Guardian, BBC and regional UK papers for human-interest and community stories (Tier 1 for attribution, but search for the specific story rather than the section)
+
+## Job 2 — Retrospectives
+
+Search task, not a monitoring one. Prioritise stories that were widely covered at the time (Guardian, major magazines). Check the obvious round-number angle hasn't already been exhausted.
+
+## Job 3 — Calendar hooks
+
+Search-based. The full calendar lives in beat-notes.md.
+
+## Out of scope by default
+
+Writer deep-dive reference list (on request only): UK — Amelia Tait, Sirin Kale, Emma Beddington, Rhiannon Lucy Cosslett, Yomi Adegoke, Bryony Gordon, Hattie Crisell, Pandora Sykes, Caitlin Moran, Hadley Freeman, Poorna Bell, Chanté Joseph, Donna Ferguson, Amelia Abraham, Megan Carnegie, Daisy Jones, Rachael Healy, Megan Wallace. French — Titiou Lecoq, Lauren Bastide, Maïa Mazaurette, Salomé Saqué, Nesrine Slaoui, Sophie Fontanel, Nora Bouazzouni, Nadia Daam, Rose Lamy, Johanna Luyssen, Clémentine Goldszal, Christelle Murhula, Émilie Laystary, Loïc Prigent, Garance Doré, Julia Druelle, Léonor Lumineau, Victoire Tuaillon, Nelly Kaprièlian, Lauren Malka. Social handles are largely unmonitorable via web search.
 
 ## Tier 3 — Noise / sceptical
 
-Anything tabloid-esque.
+Anything tabloid-esque. Nothing from MailOnline or The Sun.
 
----
+## How I want sources flagged
 
-## Sources I want monitored daily
-
-Amelia Tait — Instagram: @ameliargh (arguably her main work-sharing platform now) • X: @ameliargh
-Donna Ferguson — LinkedIn: Donna Ferguson • X: @donnaferguson5
-Amelia Abraham — Instagram: @ameliaabraham • X: @ameliaabraham
-Hattie Crisell — Instagram: @hattiecrisell (where she most regularly promotes profiles and podcast episodes) • X: @hattiecrisell
-Emma Beddington — X: @edbedington (still her primary professional channel)
-Megan Carnegie — Instagram: @megancarnegie_ • X: @megancarnegie_
-Daisy Jones — Instagram: @daisyjsjones (her most active work-sharing account) • X: @daisyjsjones
-Sirin Kale — X: @sirin_kale (by far her main outlet for promoting work and discussing reporting)
-Rachael Healy — Instagram: @rachaelhealy_ • X: @rachaelhealy_
-Bryony Gordon — Instagram: @bryonygordon (very active for articles, books and podcast appearances) • X: @bryony_gordon
-Hadley Freeman — Instagram: @hadleyfreeman • X: @hadleyfreeman
-Caitlin Moran — Instagram: @caitlinmoran • X: @caitlinmoran
-
-Yomi Adegoke — Instagram @yomi.adegoke
-Pandora Sykes — Instagram @pandorasykes
-Poorna Bell — Instagram @poornabell
-Rhiannon Lucy Cosslett — Instagram @rhiannonlc
-Megan Wallace — LinkedIn tends to be her main professional channel.
-Chanté Joseph — Instagram @chantejoseph
-
-Titiou Lecoq — Instagram: @titiou
-Christelle Murhula — Instagram: @christellemurhula
-Émilie Laystary — Instagram: @laystary
-Sophie Fontanel — Instagram: @sophiefontanel
-Loïc Prigent — Instagram: @loicprigent
-Garance Doré — Instagram: @garancedore
-Julia Druelle — Instagram: @juliadruelle
-Léonor Lumineau — Instagram: @leonorlumineau
-Nora Bouazzouni — Instagram: @norabouazzouni
-Lauren Bastide — Instagram: @laurenbastide
-Victoire Tuaillon — Instagram: @victoiretuaillon
-Nadia Daam — Instagram: @nadiadaam
-Salomé Saqué — Instagram: @salomesaque
-Nelly Kaprièlian — Instagram: @nellykaprielian
-Maïa Mazaurette — Instagram: @maiamazaurette
-Nesrine Slaoui — Instagram: @nesrineslaoui
-Lauren Malka — Instagram: @laurenmalka
-Rose Lamy — Instagram: @preparez_vous_pour_la_bagarre
-Johanna Luyssen — Instagram: @johannaluyssen
-Clémentine Goldszal — Instagram: @clementinegoldszal
-
----
-
-## How I want sources flagged in output
-
-
-**Example:**
-- Tier 1 sources: cite by name without caveat. *"HSJ reports..."*, *"NHS England's latest workforce data shows..."*
-- Tier 2 sources: cite with attribution context. *"According to a Politico London Influence item (which is well-sourced but typically rumour-heavy)..."*
-- Tier 3 sources: do not cite. If a Tier 3 source is the only one carrying a story, flag it as: *"Currently only reported by [source], not yet picked up by trusted outlets — monitor."*
+- Tier 1: cite by name without caveat.
+- Tier 2: cite with attribution context.
+- Tier 3: do not cite; if it is the only source, flag as unverified.
