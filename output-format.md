@@ -1,67 +1,57 @@
 # Output format
 
-> This file tells the agent how you want its output structured. It is the *shape* of every digest the agent produces.
->
-> The format below is a starter — adapt it. Try a digest, see what you actually use, edit this file to match. The agent will follow whatever you put here.
-
 ---
 
 ## My preferred format
 
-```markdown
-# Daily digest — [DATE]
+````markdown
+# Digest — [DATE]
 
 ## Key theme
-*One sentence. The single most important thing across today's items, in plain English.*
+*One sentence.*
 
 ## Top items
 
-### 1. [Headline in plain English, not click-bait]
+### 1. [Headline in plain English]
 - **Source(s):** [Outlet/author, with tier flag if Tier 2 or 3]
-- **Why it matters for me:** [One sentence tying it to my beat or current threads]
+- **Published:** [Date — always stated]
+- **Already covered elsewhere?** [Who else has covered it and when, or "no other coverage found"]
+- **Why it matters for me:** [One sentence]
 - **Summary:** [Two sentences, no fluff]
 - **Link:** [URL]
 - **Confidence:** high / medium / low
 
-### 2. [Next item, same shape]
-…
+[Only as many items as are genuinely strong]
 
-[5 to 8 items in total, ranked by importance to me — not by recency]
+## Light and bright
+*Two or three items from Job 4, same fields as above, plus one line on what makes each one light and bright. Say so plainly if nothing cleared the bar.*
+
+## Idea bank (not currently usable)
+*Older or out-of-season wellness themes from Job 2 worth keeping. For each: the theme, the era it peaked, the best pitch window, and what would make it usable. Clearly labelled as not current.*
 
 ## What I should chase
-*A short list of follow-ups. Things worth a phone call, an FOI, a question to a source. The agent should suggest these — not just summarise.*
-
 ## What I couldn't verify
-*Anything the agent flagged but couldn't confirm. A leak that's only in one place. A statistic that doesn't match the underlying data. A claim that needs a primary source.*
-
 ## Sources checked
-*A list of every source the agent looked at, including the ones that returned nothing. So I know what's been covered.*
-```
+````
 
 ---
 
 ## Rules for the agent
 
-*Specific instructions on how you want the digest written.*
-
-**Example:**
-- Use British English.
-- No marketing language. No "game-changing", "revolutionary", "AI-powered". Plain prose.
-- Lead every "why this matters" with a verb. *"Affects"*, *"Changes"*, *"Contradicts"*, *"Confirms"*. Not *"This is interesting because…"*.
-- If something is uncertain, say so in the same sentence as the claim, not in a separate disclaimer.
-- Use full names on first reference, last names after.
-- Don't pad. If there are only 4 strong items today, give me 4 — not 8 with two filler.
-- If today is genuinely a slow news day, say so. *"Light news today — 3 items worth your attention, listed below."* Don't manufacture.
-- Be inspirational on how this could inspire me, or what I could learn from it
-
----
+- Use British English. No marketing language. Plain prose.
+- Lead every "why this matters" with a verb.
+- If something is uncertain, say so in the same sentence as the claim.
+- Don't pad. If today is slow, say so. Don't manufacture.
+- Be inspirational on how this could inspire me, or what I could learn from it.
+- Rank lighter, brighter, more joyful items above otherwise equal ones, and say what makes them light and bright. Keep it grounded: no saccharine filler, no stories that are only cheerful because they leave out the real picture.
+- The Idea bank is exempt from the one-month rule but must be labelled "not currently usable" and carry a best pitch window.
+- State the publish date of every item. For Jobs 1 and 3, only surface items published within the last month; older items are dropped or moved to "What I should chase" as background.
+- Job 2 is the exception (old sources are the point), but commentary about a retrospective needs its own date checked.
+- Always run a follow-up search to check whether other outlets have already covered a story, and say so plainly.
 
 ## What I don't want
 
-**Example:**
-- No emojis.
-- No sycophancy. Don't tell me a story is "fascinating" or "important" — show me why.
-- No headers I didn't ask for.
-- No "let me know if you'd like me to dig deeper". I'll ask if I want more.
-- No paraphrasing of headlines as if they were summaries. If you only have a headline, say so and quote it.
-- Nothing to make me anxious or compare myelf with others. You are only trying to help me learn.
+- No emojis. No sycophancy. No unrequested headers.
+- No "let me know if you'd like me to dig deeper".
+- No paraphrasing of headlines as if they were summaries.
+- Nothing to make me anxious or compare myself with others. You are only trying to help me learn.
